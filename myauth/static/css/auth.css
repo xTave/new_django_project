@@ -1,0 +1,44 @@
+h1 a
+{
+    color: #FCA205;
+}
+.text
+{
+    font-size: 20;
+}
+
+.post_title
+{
+    font-size: 50;
+}
+
+.published
+{
+    font-size: 15;
+}
+
+.main_content
+{
+    padding-left: 3%;
+    padding: 20px 20px 20px 40px;
+}
+
+body
+{
+
+}
+
+.page_title
+{
+    background-color: #FCA205;
+    color: #FFFFFF;
+    padding: 20px 20px 20px 40px;
+}
+
+.page_title h1 a
+{
+    color: #FFFFFF;
+    font-family: 'Lobster';
+    padding-left: 15;
+}
+

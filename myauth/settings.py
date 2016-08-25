@@ -1,0 +1,1 @@
+PAGE_TO_REDIRECT = '/auth'
